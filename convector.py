@@ -17,3 +17,4 @@ elif duration >= 86400:
     print(day, "-дней", hour, "-часов", minute, " -минут", second, " -секунд")
 else:
     print("Введите число больше 0")
+    
